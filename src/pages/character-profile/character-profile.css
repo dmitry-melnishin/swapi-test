@@ -1,0 +1,11 @@
+.profile-wrapper {
+    display: flex;
+}
+
+.image-container {
+    width: 150px;
+}
+
+ol {
+    list-style-type: lower-alpha;
+}
